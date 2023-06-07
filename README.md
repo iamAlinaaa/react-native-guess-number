@@ -1,5 +1,5 @@
 # react-native-guess-number
-Game developed with React native for Android and iOS. Main Idea: user picks a number from 1 to 99 and phone tries to guess it, while user gives hint to a phone. 
+Game developed with React native for Android and iOS. Main Idea: user picks a number from 1 to 99 and phone tries to guess it, while user gives hints to the phone. 
 
 ![IMG_0555](https://github.com/iamAlinaaa/react-native-guess-number/assets/111873795/0e8e2575-1ffb-470a-8aee-21df14312c2e)
 ![IMG_0556](https://github.com/iamAlinaaa/react-native-guess-number/assets/111873795/b999140f-c129-4cad-81e4-4955afec7bde)
